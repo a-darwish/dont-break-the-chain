@@ -1,0 +1,7 @@
+
+# Makefile TEX_BUILD_DIR + OUT_DIR
+.build/
+pdfs/
+
+# Editors
+*~
