@@ -7,12 +7,13 @@
 \documentclass[a4paper, 17pt]{extarticle}       % "extarticle" for 13pt+ fonts
                                                 % sizes available: 8, 9, 10, 11, 12, 14, 17, and 20.
 \usepackage[a4paper,                            % A4 paper
-        vmargin=0.26in,                         % Vertical margins
+        vmargin=0.3in,                          % Vertical margins
         hmargin=0in]{geometry}                  % Manually control horizontal margains for each element
 
 \usepackage[T1]{fontenc}                        % Type-1 fonts
 \usepackage[sc]{mathpazo}                       % Palatino serif font
 \usepackage{tabu}                               % same like \begin{tabular}, but with configurable table line widths
+\usepackage{xcolor}                             % Text colors
 
 %
 % Table conf: embolden border more than internal lines
@@ -24,7 +25,7 @@
 
 \begin{document}
 \begin{center}
-{\LARGE \textbf{DON'T BREAK THE CHAIN}}
+{\LARGE \textbf{\color{red}{DON'T BREAK THE CHAIN}}}
 \end{center}
 
 \setlength{\parindent}{23pt}
