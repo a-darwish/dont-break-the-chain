@@ -46,8 +46,8 @@ long chains* and monitor your full year's progress *in one glance*.
 For easier access, these PDFs can also be directly downloaded using the
 links below:
 
-- `dbtc-normal.pdf <https://raw.githubusercontent.com/a-darwish/dont-break-the-chain/master/pdfs/dbtc-normal.pdf>`_
 - `dbtc-bold.pdf <https://raw.githubusercontent.com/a-darwish/dont-break-the-chain/master/pdfs/dbtc-bold.pdf>`_
+- `dbtc-normal.pdf <https://raw.githubusercontent.com/a-darwish/dont-break-the-chain/master/pdfs/dbtc-normal.pdf>`_
 
 The generated PDFs imitate what is already sold at `The Writers Store
 <https://www.writersstore.com/dont-break-the-chain-calendar>`_. While
